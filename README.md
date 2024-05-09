@@ -1,4 +1,4 @@
-# Objectron 3D Object Detection Web App
+# Objectron : 3D Object Detection Web App
 
 ## Introduction
 This repository hosts a web-based implementation of the MediaPipe Objectron model, enabling real-time 3D object detection directly in your web browser. The application utilizes your webcam or allows you to upload images for object detection.
