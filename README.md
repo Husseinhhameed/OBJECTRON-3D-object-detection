@@ -14,3 +14,9 @@ This repository hosts a web-based implementation of the MediaPipe Objectron mode
 - **JavaScript**: Manages application logic.
 - **HTML5/CSS3**: Ensures a responsive and modern UI.
 
+## Resources
+- *1**: https://developers.google.com/mediapipe/solutions/vision/object_detector
+- **2**: https://paperswithcode.com/dataset/objectron
+- **3**: https://github.com/google-research-datasets/Objectron
+- **4**: https://arxiv.org/abs/2012.09988
+- **5**: https://mediapipe.readthedocs.io/en/latest/solutions/objectron.html
