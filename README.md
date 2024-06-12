@@ -5,6 +5,9 @@ This repository hosts a web-based implementation of the MediaPipe Objectron mode
 
 ![Object Detection Demo](https://github.com/Husseinhhameed/OBJECTRON/blob/main/Objectron-0000004998-c762a809.gif)
 
+- **1**: **Live version ** https://developers.google.com/mediapipe/solutions/vision/object_detector
+
+
 ## Features
 - **Real-Time Detection**: Utilizes your webcam to detect objects in 3D.
 - **Browser-Based**: No additional software installation required; runs entirely in the browser.
